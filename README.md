@@ -1,9 +1,10 @@
-<h2 align="left">Hi 👋! I am CapitanSolnan from my house</h2>
+<h2 align="left">Hi 👋! I am CapitanSolnan</h2>
 
 ###
 
 <div align="left">
-  <p>i like the mom of stageddat</p>
+  <p>Programming language</p>
+  <p>Java / JavaScript / HTML / CSS / SQL / PHP / C# / VB.NET</p>
   
 
 </div>
