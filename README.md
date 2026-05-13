@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <p>I love the momo of Stageddat</p>
+  <p>I love the mom of Stageddat</p>
   <p>Programming language</p>
   <p>Java / JavaScript / HTML / CSS / SQL / PHP / C# / VB.NET</p>
   
